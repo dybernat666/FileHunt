@@ -116,5 +116,6 @@ int main () {
         medium();
     } else if (choose == 3) {
         hard ();
-    }
+    } else {
+        std::cout << "?";
 }
